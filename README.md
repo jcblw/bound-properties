@@ -2,6 +2,8 @@
 
 binds an objects methods to its own context
 
+[![Build Status](https://travis-ci.org/jcblw/bound-properties.svg?branch=master)](https://travis-ci.org/jcblw/bound-properties)
+
 ## Usage
 
 ```javascript
