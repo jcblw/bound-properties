@@ -1,6 +1,6 @@
 {
   "name": "bound-properties",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "binds an objects methods to its own context",
   "main": "index.js",
   "scripts": {
